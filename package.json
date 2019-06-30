@@ -1,14 +1,14 @@
 {
   "name": "flat",
   "version": "1.0.0",
-  "description": "eduarmreyes's JS solution for flatten an Array.",
+  "description": "eduarmreyes's JS solution for uniq-sort an Array.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduarmreyes/array-flatten.git"
+    "url": "git+https://github.com/eduarmreyes/array-uniq-sort.git"
   },
   "keywords": [
     "code",
@@ -17,9 +17,9 @@
   "author": "eduarmreyes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eduarmreyes/array-flatten/issues"
+    "url": "https://github.com/eduarmreyes/array-uniq-sort/issues"
   },
-  "homepage": "https://github.com/eduarmreyes/array-flatten#readme",
+  "homepage": "https://github.com/eduarmreyes/array-uniq-sort#readme",
   "devDependencies": {
     "eslint": "^5.3.0",
     "eslint-config-airbnb-base": "^13.1.0",
